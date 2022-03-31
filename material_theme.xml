@@ -15,11 +15,12 @@
     <option name="customListItemsSizeEnabled" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="settingsSelectedTab" value="6" />
+    <option name="settingsSelectedTab" value="4" />
     <option name="accentColor" value="ff79c5" />
     <option name="selectedTheme" value="DRACULA" />
     <option name="userId" value="-2d690fea:17fdead5b7d:-8000" />
     <option name="version" value="6.16.0" />
     <option name="tabHighlightPosition" value="Left" />
+    <option name="stripedToolWindowsEnabled" value="true" />
   </component>
 </application>
